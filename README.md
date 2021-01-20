@@ -2,7 +2,7 @@
 
 A timer birthday of mine that allows you to know when it will happen!
 
-![Algorithm schema](./images/countdown-site.png)
+![Algorithm schema](./images/countdown-site.PNG)
 
 The purpose was to enhance my frontend skills, I hope you enjoy the desing!
 
